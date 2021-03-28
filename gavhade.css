@@ -1,0 +1,36 @@
+header{
+    font-family: serif;
+    font-size: 60px;
+    color:silver;
+    
+}
+
+footer{
+    font-family:cursive;
+    font-size: 20px;
+    color:rgba(233, 233, 17, 0.877);
+    
+}
+
+body{
+    background-image: url("h.jpg");
+    background-repeat: no-repeat;
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+p{
+    font-size: 30px;
+    font-family:arial ;
+    color:rgb(235, 235, 53);
+}
+
+a:link, a:visited {
+    color: white;
+    
+  }
+  
+  

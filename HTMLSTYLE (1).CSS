@@ -1,0 +1,26 @@
+body{
+  
+   background-image: url(https://www.techandall.com/wp-content/uploads/2013/10/techandall_wallpaper_1.jpg);
+    
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+header{
+    font-family:Cursive;
+    font-size:50px;
+    background-image: url(heading.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding:30px;
+    text-align:left;
+    color:white;
+}
+
+p{
+    font-family:BELL MT;
+    font-size:20px;
+}
